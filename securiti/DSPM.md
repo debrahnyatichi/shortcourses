@@ -25,5 +25,37 @@ DSPM continuously monitors data access patterns, identifies risky permissions, a
 Manual security processes often slow down development and operations teams. Security reviews, audits, and data discovery tasks can delay projects and reduce agility. 
 DSPM automates data security management, enabling faster innovation while maintaining strong protection over sensitive data assets.
 
-**Module2: What is DPSM**
+**Module2: What is DSPM**
+**Data Security Posture Management (DSPM)** is a data-centric security approach that focuses on discovering, understanding, and protecting sensitive data across an organization’s entire digital environment. 
 
+**Key Capabilities of DSPM:**
+DSPM provides comprehensive visibility into an organization’s data security posture by answering critical questions:
+* **Where sensitive data resides** – Identifies and locates sensitive data across cloud platforms, databases, SaaS applications, and storage systems.
+* **Who has access** – Determines which users, applications, or services can access the data.
+* **How data is used** – Monitors how data is accessed, shared, or processed across environments.
+* **Compliance, security, and privacy risks** – Detects violations of regulatory requirements and potential data exposure risks.
+* **How to remediate** – Provides recommendations and automated actions to reduce risks and strengthen security controls.
+
+**DSPM in the Modern Environment:**
+DSPM does not operate in isolation. It integrates with existing security tools and platforms to protect data across modern infrastructures, including:
+* Hybrid cloud environments
+* Software-as-a-Service (SaaS) applications
+* AI systems and data pipelines
+![securedata_AI](\screenshots\securedata_AI.png)
+This enables organizations to secure their data and AI workloads anywhere while maintaining consistent visibility and protection.
+
+**Advanced DSPM Capabilities**
+One of the major advantages of modern DSPM platforms is their ability to deliver deep contextual insights. Many platforms use knowledge graphs to correlate large amounts of metadata—such as data location, access permissions, user activity, and system relationships.
+By building a connected and intelligent view of data flows, knowledge graphs help organizations:
+* Identify potential risks and vulnerabilities
+* Detect emerging threats earlier
+* Understand relationships between data, users, and systems
+This allows security teams to proactively identify issues, reduce risks before they escalate, and respond precisely when incidents occur.
+
+**Benefits of a Modern DSPM Platform:**
+A modern DSPM solution helps organizations:
+* **Manage security posture** – Maintain visibility and control over sensitive data across environments.
+* **Reduce access risks** – Identify excessive permissions and limit unauthorized access.
+* **Minimize ROT data** – Detect and reduce Redundant, Obsolete, and Trivial (ROT) data, which increases risk without providing business value.
+* **Automate compliance** – Continuously monitor and enforce regulatory requirements.
+* **Safeguard AI systems** – Protect datasets used in AI models and ensure sensitive information is not exposed.
