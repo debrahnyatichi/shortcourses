@@ -41,7 +41,7 @@ DSPM automates data security management, enabling faster innovation while mainta
 * Hybrid cloud environments
 * Software-as-a-Service (SaaS) applications
 * AI systems and data pipelines
-![securedata_AI](\screenshots\securedata_AI.png)
+![securedata_AI](/screenshots/securedata_AI.png)
 - This enables organizations to secure their data and AI workloads anywhere while maintaining consistent visibility and protection.
 
 **Advanced DSPM Capabilities**
