@@ -117,32 +117,32 @@ DSPM automates data security management, enabling faster innovation while mainta
 * AI pipelines
 - This mapping helps security teams understand data propagation and potential exposure points.
 
-8. Track Data Lineage
+8. **Track Data Lineage**
 - Data lineage shows the lifecycle of data—where it originated, how it was transformed, and where it is stored.
 - This capability helps organizations:
 * Investigate incidents
 * nderstand how data changes over time
 * Maintain accurate governance.
 
-9. Minimize ROT Data
+9. **Minimize ROT Data**
 ROT stands for Redundant, Obsolete, and Trivial data.
 DSPM tools detect and remove unnecessary data to:
 * Reduce storage costs
 * Reduce attack surface
 * Improve overall data governance.
 
-10. Data + AI Controls
+10. **Data + AI Controls**
 - Modern DSPM solutions implement controls to secure AI usage of data, including:
 * Monitoring AI model training datasets
 * Controlling access to sensitive data used by AI
 * Preventing leakage through AI tools.
 
-11. Improve Compliance Posture
+11. **Improve Compliance Posture**
 - DSPM helps organizations comply with regulations such as:
 * GDPR
 * HIPAA
 * PCI-DS
 - It maps sensitive data to regulatory requirements and highlights policy violations or compliance risks.
 
-12. Automate Breach Notifications
+12. **Automate Breach Notifications**
 - If a breach or exposure is detected, DSPM can automatically trigger alerts and notifications to security teams or regulatory bodies, enabling faster incident response and compliance with breach reporting laws.
