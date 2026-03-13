@@ -1,11 +1,11 @@
 **Introduction**
 **DSPM Fundamentals**
 **Modules**
-![Modules](\screenshots\modules.png)
+![Modules](/screenshots/modules.png)
 
 **Module1: The Need for DSPM**
 **Why do organizations need DSPM?**
-![dpsm need](\screenshots\dpsm_need.png)
+![dpsm need](/screenshots/dpsm_need.png)
 - **Multicloud adoption:**
 Many organizations operate across multiple cloud platforms, this multicloud architecture increases complexity because data is distributed across different storage services, configurations, and access policies. 
 DSPM helps organizations automatically discover where sensitive data resides, classify it, and monitor access across all cloud environments, reducing the risk of misconfigurations or unauthorized exposure.
@@ -41,7 +41,7 @@ DSPM automates data security management, enabling faster innovation while mainta
 * Hybrid cloud environments
 * Software-as-a-Service (SaaS) applications
 * AI systems and data pipelines
-- ![securedata_AI](\screenshots\securedata_AI.png)
+![securedata_AI](\screenshots\securedata_AI.png)
 - This enables organizations to secure their data and AI workloads anywhere while maintaining consistent visibility and protection.
 
 **Advanced DSPM Capabilities**
